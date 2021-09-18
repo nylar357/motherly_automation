@@ -41,11 +41,11 @@ This is a choiced bash script, so there are 3 choices. Example Connect Usage : .
 par for the linux operating system when running applications in the terminal, option with a shorthand called
 the argument.  Usually the option itself will work as well, but not in this case.
 
-  | Left-aligned | Right-aligned |
-  | :---Option   | Argument---:  |
-  | connect      |      -1       |
-  | disconnect   |      -2       |
-  | shortcuts    |     - 3       |  
+ |  argument  |   option    | 
+ | -1        | connect      | 
+ | -2        | disconnect   |  
+ | -3        | shortcuts    | 
+
   
   
   Steps to follow while connecting, obviously country & state are your choice, I reccommend to you to just use UDP, its much much safer and there isn't any drawbacks compared to TCP, at least not for your normal use.
