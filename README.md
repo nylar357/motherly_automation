@@ -57,4 +57,4 @@ the argument.  Usually the option itself will work as well, but not in this case
 ![preview](img/proton3.png)
 
 4. Wait for confirmation
-![preview](img/proton4)
+![preview](img/proton4.png)
