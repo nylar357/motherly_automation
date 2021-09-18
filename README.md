@@ -41,9 +41,9 @@ This is a choiced bash script, so there are 3 choices. Example Connect Usage : .
 par for the linux operating system when running applications in the terminal, option with a shorthand called
 the argument.  Usually the option itself will work as well, but not in this case.
 ```option```    ```argument```
-  connect             -1 
-  disconnect          -2 
-  display shortcuts   -3
+  ```connect             -1``` 
+  ```disconnect          -2``` 
+  ```display shortcuts   -3```
   
   Steps to follow while connecting, obviously country & state are your choice, I reccommend to you to just use UDP, its much much safer and there isn't any drawbacks compared to TCP, at least not for your normal use.
   
