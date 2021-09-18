@@ -1,3 +1,6 @@
+First we need to place the script that actually does the work in your documents folder, that is the /home/documents/
+
+
 This is going to be a simple little task of creating some keyboard shortcuts to connect & disconnect from the vpn
 
 Menu > Settings > System Settings or All Settings > Shortcuts > Press the  (Plus Button See Photo)
@@ -20,7 +23,7 @@ Connect Shortcut
 
 ```Name : Connect to ProtonVPN```
 
-```Command : xfce4-terminal -x bash /home/nylar/docs/scripts4mom/vpncon.sh -1``` 
+```Command : xfce4-terminal -x bash /home/user1/documents/vpncon.sh -1``` 
 
 ```Shortcut : Super/Windows Button + c```
 
@@ -28,6 +31,6 @@ Disconnect Shortcut
 
 ```Name : Disconnect from ProtonVPN```
 
-```Command : xfce4-terminal -x bash /home/nylar/docs/scripts4mom/vpncon.sh -2 = Disconnect from VPN```
+```Command : xfce4-terminal -x bash /home/user1/documents/vpncon.sh -2 = Disconnect from VPN```
 
 ```Shortcut : Super/Windows Button + d```
