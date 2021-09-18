@@ -1,4 +1,4 @@
-First we need to place the script that actually does the work in your documents folder, that is the /home/documents/
+First we need to place the script that actually does the work in your documents folder, that is the ```vpncon.sh``` script above this window.  You can download it or copy and paste it into the : ```/home/user1/documents/``` or ```Home -> Documents ->``` if your using a file manager.
 
 
 This is going to be a simple little task of creating some keyboard shortcuts to connect & disconnect from the vpn
