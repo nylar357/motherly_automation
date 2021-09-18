@@ -48,13 +48,17 @@ the argument.  Usually the option itself will work as well, but not in this case
   Steps to follow while connecting, obviously country & state are your choice, I reccommend to you to just use UDP, its much much safer and there isn't any drawbacks compared to TCP, at least not for your normal use.
   
 1. Country Choice 
+
 ![preview](img/proton1.png)
   
 2. State Choice
+
 ![preview](img/proton2.png)
 
 3. UDP or TCP
+
 ![preview](img/proton3.png)
 
 4. Wait for confirmation
+
 ![preview](img/proton4.png)
