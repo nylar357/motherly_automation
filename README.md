@@ -34,3 +34,13 @@ Disconnect Shortcut
 ```Command : xfce4-terminal -x bash /home/user1/documents/vpncon.sh -2 = Disconnect from VPN```
 
 ```Shortcut : Super/Windows Button + d```
+
+Run Script Standalone 
+
+This is a choiced bash script, so there are 3 choices. Example Connect Usage : ./vpncon.sh -1  . This is 
+par for the linux operating system when running applications in the terminal, option with a shorthand called
+the argument.  Usually the option itself will work as well, but not in this case.
+```option```    ```argument```
+  connect             -1 
+  disconnect          -2 
+  display shortcuts   -3
