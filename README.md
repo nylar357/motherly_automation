@@ -16,10 +16,15 @@ Type a Name to identify the shortcut, and a Command to run an application.
 Click the Set Shortcut .... When the Set Custom Shortcut window opens, hold down the desired shortcut key combination.
 I'd reccommend  
 
-Name : Connect to ProtonVPN
-Command : xfce4-terminal -x bash /home/nylar/docs/scripts4mom/vpncon.sh -1 
-Shortcut : Super/Windows Button + c 
+```Name : Connect to ProtonVPN```
 
-Name : Disconnect from ProtonVPN
-Command : xfce4-terminal -x bash /home/nylar/docs/scripts4mom/vpncon.sh -2 = Disconnect from VPN
-Shortcut : Super/Windows Button + d
+```Command : xfce4-terminal -x bash /home/nylar/docs/scripts4mom/vpncon.sh -1``` 
+
+```Shortcut : Super/Windows Button + c```
+
+
+```Name : Disconnect from ProtonVPN```
+
+```Command : xfce4-terminal -x bash /home/nylar/docs/scripts4mom/vpncon.sh -2 = Disconnect from VPN```
+
+```Shortcut : Super/Windows Button + d```
