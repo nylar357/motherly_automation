@@ -35,6 +35,14 @@ Disconnect Shortcut
 
 ```Shortcut : Super/Windows Button + d```
 
+Display Shortcuts
+
+```Name : Keyboard Shortcuts Displayed```
+
+```Command : xfce4-terminal -x bash /home/user1/documents/vpncon.sh -3 = Fetching Shortcuts```
+
+```Shortcut : Super/Windows Button + s```
+
 Run Script Standalone 
 
 This is a choiced bash script, so there are 3 choices. Example Connect Usage : ./vpncon.sh -1  . This is 
