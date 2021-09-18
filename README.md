@@ -41,13 +41,13 @@ This is a choiced bash script, so there are 3 choices. Example Connect Usage : .
 par for the linux operating system when running applications in the terminal, option with a shorthand called
 the argument.  Usually the option itself will work as well, but not in this case.
 
- ```|  argument  |   option    |``` 
- ```| -1        
- | connect      |``` 
- ```| -2        
- | disconnect   |```  
- ```| -3        
- | shortcuts    |``` 
+    |  argument  |   option     |``` 
+    | -1        
+                 | connect      |``` 
+    | -2        
+                 | disconnect   |```  
+    | -3        
+                 | shortcuts    |``` 
 
   
   
