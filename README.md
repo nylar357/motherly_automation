@@ -42,9 +42,12 @@ par for the linux operating system when running applications in the terminal, op
 the argument.  Usually the option itself will work as well, but not in this case.
 
  ```|  argument  |   option    |``` 
- ```| -1        | connect      |``` 
- ```| -2        | disconnect   |```  
- ```| -3        | shortcuts    |``` 
+ ```| -1        
+ | connect      |``` 
+ ```| -2        
+ | disconnect   |```  
+ ```| -3        
+ | shortcuts    |``` 
 
   
   
